@@ -44,15 +44,14 @@ This portfolio is a collection of projects that reflect both my passion for the 
 | **Conservation Funding SQL Analysis** | Exploring global funding trends for conservation efforts | SQL |
 | **Species Population Dashboard** | Excel dashboard tracking endangered species over time | Excel |
 | **Retail Sales Forecasting** | Predicting future sales using regression models | Python, scikit-learn |
-| **Customer Segmentation** | Clustering customers for targeted marketing strategies | Python, KMeans, Tableau |
+| **Customer Segmentation** | Clustering customers for targeted marketing strategies | Python, KMeans, PCA |
 
 ---
 
 ## 🧭 What I'm Exploring Now
 
 - Geospatial analysis with Python and real-world environmental data  
-- Building a multi-page GitHub Pages portfolio  
-- Collaborating with conservation groups and nonprofits  
+- Building a multi-page GitHub Pages portfolio    
 - Expanding my business analytics toolkit with real-world datasets
 
 ---
@@ -61,7 +60,7 @@ This portfolio is a collection of projects that reflect both my passion for the 
 
 - 🌐 [Portfolio Website](https://yourusername.github.io/nature-data-portfolio)
 - 💼 [LinkedIn](https://www.linkedin.com/in/your-link-here)
-- 📧 morgannutto@example.com
+- 📧 morgannutto@gmail.com
 
 ---
 
