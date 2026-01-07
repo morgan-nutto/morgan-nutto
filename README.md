@@ -42,7 +42,7 @@ This portfolio is a collection of projects that reflect both my passion for the 
 | **Wildlife Migration Mapping** | Visualizing migratory bird patterns using geospatial data | Python, GeoPandas, Folium |
 | **EcoTourism Recommender** | Suggesting nature destinations based on user preferences | Python, scikit-learn |
 | **Conservation Funding SQL Analysis** | Exploring global funding trends for conservation efforts | SQL |
-| **Species Population Dashboard** | Excel dashboard tracking endangered species over time | Excel |
+| **Amazon Recommendation System** | Personalized product recommendation engine using SVD and Collaborative Filtering | Python, scikit-learn, Surprise |
 | **Lead Conversion Classifier** | Identifying high conversion leads to streamline sales and resource allocation | Python, scikit-learn, Seaborn |
 | **Customer Segmentation** | Clustering customers for targeted marketing strategies | Python, KMeans, PCA, Seaborn |
 
