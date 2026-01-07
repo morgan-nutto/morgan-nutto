@@ -43,8 +43,8 @@ This portfolio is a collection of projects that reflect both my passion for the 
 | **EcoTourism Recommender** | Suggesting nature destinations based on user preferences | Python, scikit-learn |
 | **Conservation Funding SQL Analysis** | Exploring global funding trends for conservation efforts | SQL |
 | **Species Population Dashboard** | Excel dashboard tracking endangered species over time | Excel |
-| **Retail Sales Forecasting** | Predicting future sales using regression models | Python, scikit-learn |
-| **Customer Segmentation** | Clustering customers for targeted marketing strategies | Python, KMeans, PCA |
+| **Lead Conversion Classifier** | Identifying high conversion leads to streamline sales and resource allocation | Python, scikit-learn, Seaborn |
+| **Customer Segmentation** | Clustering customers for targeted marketing strategies | Python, KMeans, PCA, Seaborn |
 
 ---
 
